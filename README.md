@@ -8,16 +8,7 @@
 <div align="center">
     <img src="05_Inkscape\PIC__Page 2.png"/>
 </div>
-
-[![FreeCAD](https://img.shields.io/badge/FreeCAD-1.0-blue?logo=freecad)](https://www.freecad.org/)
-[![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-2.20-orange?logo=orca)](https://github.com/OrcaSlicer/OrcaSlicer)
-
-
-<!-- Technical SECTION  -->
-<!-- Technical SECTION  -->
-<!-- Technical SECTION  -->
 <br>
-
 
 <p align="center">
     <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" alt="Markdown Badge" /></a>
@@ -25,6 +16,16 @@
     <a href="mailto:bajran1616@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
     <br>
 </p>
+
+
+
+## Requirements
+
+<a href="https://www.freecad.org/">
+    <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=freecad" width="150">
+</a>
+[![FreeCAD](https://img.shields.io/badge/FreeCAD-1.0-blue?logo=freecad)](https://www.freecad.org/)
+[![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-2.20-orange?logo=orca)](https://github.com/OrcaSlicer/OrcaSlicer)
 
 <!-- Technical SECTION <elements> -->
 <!-- Technical SECTION <elements> -->
