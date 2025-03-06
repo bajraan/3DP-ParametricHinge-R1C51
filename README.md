@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-    <img src="05_Inkscape\PIC__Page 2.png" width="1000" height="1500"/>
+    <img src="05_Inkscape\PIC__Page 2.png" width="1000" height="1000"/>
 </div>
 
 <!-- Technical SECTION  -->
@@ -44,8 +44,8 @@
 > **Example parameter chage:**
 
 <div align="center">
-    <img src="05_Inkscape\PIC__Page 3.png" width="1000" height="1500"/>
-    <img src="05_Inkscape\PIC__Page 4.png" width="1000" height="1500"/>
+    <img src="05_Inkscape\PIC__Page 3.png" width="600" height="900"/>
+    <img src="05_Inkscape\PIC__Page 4.png" width="800" height="1200"/>
     <img src="05_Inkscape\PIC__Page 5.png" width="1000" height="1500"/>
 </div>
 
