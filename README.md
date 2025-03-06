@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <p align="center">
-    <font size="10"><b>3DP-ParametricHinge-R1C51</b></font><br>
+    <font size="20"><b>3DP-ParametricHinge-R1C51</b></font><br>
 </p>
 
 <div align="center">
@@ -19,12 +19,12 @@
 ## Descriptions
 Parametric Hinge project based on fully 3D printed parts
 ## Requirements
-<a href="https://www.freecad.org/">
+<a href="https://www.freecad.org/downloads">
     <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=freecad" width="150">
 </a>
-
+<br>
 <a href="https://github.com/OrcaSlicer/OrcaSlicer">
-    <img src="https://img.shields.io/badge/OrcaSlicer-2.20-orange?logo=orca" width="170">
+    <img src="https://img.shields.io/badge/OrcaSlicer-2.20-orange?logo=orca" width="150">
 </a>
 
 
