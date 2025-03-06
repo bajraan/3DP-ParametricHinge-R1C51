@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="70b671a1-8dae-4f68-b68b-60f803bbd5a8"
+   data-name="Calque 1"
+   width="1000"
+   height="1206"
+   viewBox="0 0 1000 1206"
+   version="1.1"
+   sodipodi:docname="Symbol_Resin_Code_07_O_PLA.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="Symbol_Resin_Code_07_O_PLA_11.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs308" />
+  <sodipodi:namedview
+     id="namedview306"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.99323291"
+     inkscape:cx="432.42627"
+     inkscape:cy="932.30902"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="70b671a1-8dae-4f68-b68b-60f803bbd5a8" />
+  <title
+     id="title291">Resin Code Alt</title>
+  <path
+     d="m 880.7341,630.60843 -57.77191,-100.06263 -74.37944,42.94348 57.77191,100.06214 c 14.65023,25.37569 4.88018,47.82865 -10e-4,56.28205 C 801.47351,738.28687 786.95886,758 757.6584,758 H 550 V 714.95332 L 401.24111,800.83932 550,886.72528 V 844 h 207.6584 c 51.377,0 97.38574,-26.67251 123.07474,-71.166 a 140.87281,140.87281 0 0 0 9.6e-4,-142.22557 z"
+     id="path293" />
+  <path
+     d="m 376.92487,184.33227 -57.77173,100.06266 74.379,42.94323 57.77215,-100.0629 c 14.65046,-25.37508 38.93483,-28.1153 48.69584,-28.11456 9.76095,-3.4e-4 34.04576,2.73889 48.69647,28.11468 L 652.73233,407.47051 615.39175,428.94213 764,514.82811 v -171.772 L 726.96113,364.52748 623.00075,184.33239 c -25.689,-44.49464 -71.66129,-71.0582 -123.03825,-71.05767 -51.3775,-3.2e-4 -97.3496,26.56346 -123.03763,71.05755 z"
+     id="path295" />
+  <path
+     d="M 242.34191,844 H 358 V 758 H 242.34191 c -29.30069,0 -43.81508,-19.71326 -48.69584,-28.16632 -4.88076,-8.45306 -14.65044,-30.88066 -2.1e-4,-56.2556 L 297.74591,493.36958 335,514.82829 v -171.772 l -148.823,85.886 37.15741,21.47134 -104.05197,180.19557 a 140.87,140.87 0 0 0 -0.008,142.22448 C 144.96309,817.328 190.96446,844 242.34191,844 Z"
+     id="path297" />
+  <path
+     d="m 432.792,642.79785 c -28.76855,0 -53.81543,-18.84863 -53.81543,-52.57617 v -74.40039 c 0,-33.72852 25.04688,-52.57617 53.81543,-52.57617 28.76855,0 53.56836,18.84766 53.56836,52.57617 v 74.40039 c -1e-5,33.72754 -24.79981,52.57617 -53.56836,52.57617 z m 21.32813,-126.48047 c 0,-14.88086 -8.43164,-24.05664 -21.32812,-24.05664 -12.89551,0 -21.5752,9.17578 -21.5752,24.05664 v 73.65625 c 0,14.87988 8.67969,23.80762 21.5752,23.80762 12.89648,0 21.32813,-8.92773 21.32813,-23.80762 z"
+     id="path299" />
+  <path
+     d="M 567.45605,641.30957 H 532.48828 L 589.77637,493.749 h -46.624 v 27.77637 h -30.752 v -56.793 H 624.74414 V 493.749 Z"
+     id="path301" />
+  <g
+     aria-label="PLA"
+     id="text582"
+     style="font-size:40px;-inkscape-font-specification:'sans-serif, Normal';fill-rule:evenodd;stroke-width:1.002;paint-order:stroke fill markers">
+    <path
+       d="m 404.5967,987.60831 q 0,11.06773 -3.8737,21.69279 -3.87371,10.5143 -11.06773,17.7083 -9.85027,9.7396 -22.02477,14.7201 -12.06382,4.9805 -30.10421,4.9805 h -26.45186 v 53.6784 H 268.57436 V 935.59 h 69.94802 q 15.71617,0 26.45187,2.76693 10.84637,2.65626 19.14716,8.07944 9.96095,6.52996 15.16278,16.71227 5.31251,10.18231 5.31251,24.45967 z m -43.93887,0.9961 q 0,-6.97267 -3.76302,-11.95315 -3.76303,-5.09115 -8.74351,-7.08334 -6.64063,-2.65626 -12.94923,-2.87761 -6.30861,-0.33203 -16.82295,-0.33203 h -7.30469 v 49.36202 h 12.17449 q 10.84637,0 17.81904,-1.3281 7.08334,-1.3281 11.84247,-5.3125 4.09505,-3.5417 5.86589,-8.4115 1.88151,-4.98045 1.88151,-12.06379 z"
+       style="-inkscape-font-specification:'sans-serif, Bold';stroke-width:1;stroke-dasharray:none"
+       id="path3113" />
+    <path
+       d="M 553.56828,1100.3884 H 434.70092 V 935.59 h 42.50006 v 132.9234 h 76.3673 z"
+       style="-inkscape-font-specification:'sans-serif, Bold';stroke-width:1;stroke-dasharray:none"
+       id="path3115" />
+    <path
+       d="M 731.42662,1100.3884 H 687.48775 L 676.088,1067.0746 h -61.09385 l -11.39975,33.3138 H 560.7623 L 621.63479,935.59 h 48.91934 z m -65.63161,-63.5287 -20.25393,-59.10166 -20.25394,59.10166 z"
+       style="-inkscape-font-specification:'sans-serif, Bold';stroke-width:1;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path3117" />
+  </g>
+  <metadata
+     id="metadata1592">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Resin Code Alt</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

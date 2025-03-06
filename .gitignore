@@ -1,0 +1,7 @@
+# Backup files
+*.bak
+*.swp
+*~
+
+# User ignored
+/05_Inkscape__TOOLARGE__
