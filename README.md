@@ -21,26 +21,20 @@ Parametric Hinge project based on fully 3D printed parts
 
 ## Requirements
 
-<a href="https://github.com/SoftFever/OrcaSlicer">
-    <img src="https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" width="32">
-    OrcaSlicer 2.20
-</a>
-
 <br>
 
 <a href="https://github.com/SoftFever/OrcaSlicer">
-    <img src="https://img.shields.io/badge/OrcaSlicer-2.20-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" width="170">
+    <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" width="200">
 </a>
-
+<br>
+![Static Badge](https://img.shields.io/badge/FreeCAD-1.0-blue?style=for-the-badge&logoSize=15&link=https%3A%2F%2Fwww.freecad.org%2Fdownloads)
 <br>
 
 <a href="https://www.freecad.org/downloads">
-    <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=freecad" width="150">
+    <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" width="200">
 </a>
+
 <br>
-<a href="https://github.com/OrcaSlicer/OrcaSlicer">
-    <img src="https://img.shields.io/badge/OrcaSlicer-2.20-orange?logo=orca" width="150">
-</a>
 
 
 <!-- Technical SECTION <elements> -->
