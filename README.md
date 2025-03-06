@@ -9,6 +9,10 @@
     <img src="05_Inkscape\PIC__Page 2.png"/>
 </div>
 
+[![FreeCAD](https://img.shields.io/badge/FreeCAD-1.0-blue?logo=freecad)](https://www.freecad.org/)
+[![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-2.20-orange?logo=orca)](https://github.com/OrcaSlicer/OrcaSlicer)
+
+
 <!-- Technical SECTION  -->
 <!-- Technical SECTION  -->
 <!-- Technical SECTION  -->
