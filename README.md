@@ -33,6 +33,8 @@ Parametric Hinge project based on fully 3D printed parts
 <br>
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
 <br>
+https://img.shields.io/badge/build-passing-brightgreen
+<br>
 
 <a href="https://www.freecad.org/downloads">
     <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" width="200">
