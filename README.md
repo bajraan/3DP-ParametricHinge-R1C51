@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-    <img src="05_Inkscape\PIC__Page 2.png" width="1000" height="1000"/>
+    <img src="05_Inkscape\PIC__Page 2.png"/>
 </div>
 
 <!-- Technical SECTION  -->
@@ -44,9 +44,8 @@
 > **Example parameter chage:**
 
 <div align="center">
-    <img src="05_Inkscape\PIC__Page 3.png" width="600" height="900"/>
-    <img src="05_Inkscape\PIC__Page 4.png" width="800" height="1200"/>
-    <img src="05_Inkscape\PIC__Page 5.png" width="1000" height="1500"/>
+    <img src="05_Inkscape\PIC__Page 3.png"/>
+    <img src="05_Inkscape\PIC__Page 4.png"/>
     <img src="05_Inkscape\PIC__Page 5.png"/>
 </div>
 
@@ -59,6 +58,7 @@
 
 > [!IMPORTANT]
 > **By changing SCREW_DIA, SCREW_HEAD_DIA, SCREW_DEPTH, SCREW_CHAMFER, you can fit your own mounting system**
+
 > [!IMPORTANT]
 > **mounting option for default holes screw**
 ```markdown
@@ -70,7 +70,7 @@
 |---------------------------------------------------------------------------|
 ```
 <div align="center">
-    <img src="05_Inkscape\Variants_1.png" width="1000" height="1000"/>
+    <img src="05_Inkscape\Variants_1.png"/>
 </div>
 
 
@@ -81,7 +81,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="05_Inkscape\PIC__Page 1.png" width="1000" height="1000"/>
+    <img src="05_Inkscape\PIC__Page 1.png"/>
 </div>
 <br>
 <div align="center">
