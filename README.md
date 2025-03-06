@@ -10,42 +10,40 @@
 <br>
 
 <p align="center">
-    <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" alt="Markdown Badge" /></a>
-    <a href="https://github.com/bajraan"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
-    <a href="mailto:bajran1616@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
+    <a href="https://daringfireball.net/projects/markdown/">
+        <img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" 
+        alt="Markdown Badge"
+        height="40" /></a><br>
+    <a href="https://github.com/bajraan">
+        <img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" 
+        alt="GitHub Badge" 
+        height="40" /></a><br>
+    <a href="mailto:bajran1616@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" 
+        alt="Email Badge" 
+        height="40" /></a>
     <br>
 </p>
 
-## Descriptions
-Parametric Hinge project based on fully 3D printed parts
-
-## Requirements
-
-<br>
+> [!NOTE]
+> **Requirements:**
 
 <a href="https://github.com/SoftFever/OrcaSlicer">
-    <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" width="200">
-</a>
-<br>
-![Static Badge](https://img.shields.io/badge/FreeCAD-1.0-blue?style=for-the-badge&logoSize=15&link=https%3A%2F%2Fwww.freecad.org%2Fdownloads)
-<br>
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
-<br>
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
-<br>
-https://img.shields.io/badge/build-passing-brightgreen
-<br>
-
+    <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
+</a><br>
 <a href="https://www.freecad.org/downloads">
-    <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" width="200">
+    <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
-
 <br>
 
 
 <!-- Technical SECTION <elements> -->
 <!-- Technical SECTION <elements> -->
 <!-- Technical SECTION <elements> -->
+
+
+> [!NOTE]
+> **Model consistd of three parts: BASE, ARM, PIN**
 
 ```markdown
                    **PARAMETRIC HINGE ELEMENTS**
@@ -55,9 +53,16 @@ https://img.shields.io/badge/build-passing-brightgreen
 | 3  | PIN                                                                  |
 |---------------------------------------------------------------------------|
 ```
+
+
+<!--  #TODO PHOTO -->
+
+
 <!-- Technical SECTION <parametric names> -->
 <!-- Technical SECTION <parametric names> -->
 <!-- Technical SECTION <parametric names> -->
+
+
 > [!NOTE]
 > **Parameters can be changes in file: 10_FreeCAD\3DP-ParametricHinge-R1C51.FCStd**
 
@@ -77,8 +82,6 @@ https://img.shields.io/badge/build-passing-brightgreen
 <br>
 <br>
 
-> [!IMPORTANT]
-> **By changing SCREW_DIA, SCREW_HEAD_DIA, SCREW_DEPTH, SCREW_CHAMFER, you can fit your own mounting system**
 
 > [!IMPORTANT]
 > **mounting option for default holes screw**
@@ -94,6 +97,8 @@ https://img.shields.io/badge/build-passing-brightgreen
     <img src="05_Inkscape\Variants_1.png"/>
 </div>
 
+> [!IMPORTANT]
+> **By changing SCREW_DIA, SCREW_HEAD_DIA, SCREW_DEPTH, SCREW_CHAMFER, you can fit your own mounting system**
 
 <!-- Footer SECTION -->
 <!-- Footer SECTION -->
