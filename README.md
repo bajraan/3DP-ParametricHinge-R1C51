@@ -24,31 +24,29 @@
         height="40" /></a>
     <br>
 </p>
-
-<br>
-<br>
-<br>
+<br><br><br>
 
 > [!NOTE]
 > **Required software:**
 <a href="https://www.freecad.org/downloads">
     <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
+<br><br><br>
 
 > [!NOTE]
 > **Optional software:**
 <a href="https://github.com/SoftFever/OrcaSlicer">
     <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
+<br><br><br>
 
 
 
 <!-- Technical SECTION <elements> -->
 <!-- Technical SECTION <elements> -->
 <!-- Technical SECTION <elements> -->
-<br>
-<br>
-<br>
+
+
 
 > [!NOTE]
 > **Model consistd of three parts: BASE, ARM, PIN**
@@ -95,13 +93,14 @@
     <img src="05_Inkscape\PIC__Page 4.png"/>
     <img src="05_Inkscape\PIC__Page 5.png"/>
 </div>
+<br><br><br>
+
+
 
 <!-- Technical SECTION <mounting information> -->
 <!-- Technical SECTION <mounting information> -->
 <!-- Technical SECTION <mounting information> -->
-<br>
-<br>
-<br>
+
 
 
 > [!IMPORTANT]
@@ -121,12 +120,16 @@
 > [!IMPORTANT]
 > **By changing SCREW_DIA, SCREW_HEAD_DIA, SCREW_DEPTH, SCREW_CHAMFER, you can fit your own mounting system**
 
+<br><br><br>
+
+
+
 <!-- Footer SECTION -->
 <!-- Footer SECTION -->
 <!-- Footer SECTION -->
-<br>
-<br>
-<br>
+
+
+
 <div align="center">
     <img src="05_Inkscape\PIC__Page 1.png"/>
 </div>
