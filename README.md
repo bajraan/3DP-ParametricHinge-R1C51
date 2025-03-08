@@ -3,38 +3,37 @@
 <div align="center">
     <img src="05_Inkscape\PIC__Page 2.png"/>
 </div>
-<br>
 
 <p align="center">
     <a href="https://daringfireball.net/projects/markdown/">
         <img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" 
         alt="Markdown Badge"
-        height="40" /></a><br>
+        height="40" /></a>
     <a href="https://github.com/bajraan">
         <img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" 
         alt="GitHub Badge" 
-        height="40" /></a><br>
+        height="40" /></a>
     <a href="mailto:bajran1616@gmail.com">
         <img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" 
         alt="Email Badge" 
         height="40" /></a>
     <br>
 </p>
-<br><br><br>
+<br><br><br><br>
 
 > [!NOTE]
 > **Required software:**
 <a href="https://www.freecad.org/downloads">
     <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
-<br><br><br>
+<br><br><br><br>
 
 > [!NOTE]
 > **Optional software:**
 <a href="https://github.com/SoftFever/OrcaSlicer">
     <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -55,7 +54,7 @@
 | 3  | PIN                                                                  |
 |---------------------------------------------------------------------------|
 ```
-
+<br><br><br><br>
 
 <!--  #TODO PHOTO -->
 
@@ -71,7 +70,7 @@
 <div align="center">
     <img src="01_Screens\gif_value_change.gif"/>
 </div>
-
+<br><br><br><br>
 
 > [!NOTE]
 > **STL EXPORT**
@@ -79,7 +78,7 @@
 <div align="center">
     <img src="01_Screens\gif_stl_export.gif"/>
 </div>
-
+<br><br><br><br>
 
 > [!NOTE]
 > **DIMENSIONS NAME CONVENTION**
