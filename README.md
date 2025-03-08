@@ -1,9 +1,5 @@
 <!-- Begin README -->
 
-<p align="center">
-    <font size="20"><b>3DP-ParametricHinge-R1C51</b></font><br>
-</p>
-
 <div align="center">
     <img src="05_Inkscape\PIC__Page 2.png"/>
 </div>
