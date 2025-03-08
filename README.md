@@ -1,4 +1,4 @@
-<!-- Begin README -->
+<!-- Begin README  ||  Begin README  ||  Begin README  -->
 
 <div align="center">
     <img src="05_Inkscape\PIC__Page 2.png"/>
@@ -134,4 +134,5 @@
     <img src="02_Docs\resources_readme\FreeCAD.svg" width="100" height="100"/>
 </div>
 
-<!-- End README -->
+<!-- End README  ||  End README  || End README  -->
+
