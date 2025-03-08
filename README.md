@@ -88,7 +88,7 @@
     <img src="05_Inkscape\PIC__Page 4.png"/>
     <img src="05_Inkscape\PIC__Page 5.png"/>
 </div>
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -115,7 +115,7 @@
 > [!IMPORTANT]
 > **By changing SCREW_DIA, SCREW_HEAD_DIA, SCREW_DEPTH, SCREW_CHAMFER, you can fit your own mounting system**
 
-<br><br><br>
+<br><br><br><br>
 
 
 
