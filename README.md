@@ -25,22 +25,30 @@
     <br>
 </p>
 
-> [!NOTE]
-> **Requirements:**
+<br>
+<br>
+<br>
 
-<a href="https://github.com/SoftFever/OrcaSlicer">
-    <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
-</a><br>
+> [!NOTE]
+> **Required software:**
 <a href="https://www.freecad.org/downloads">
     <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
+
+> [!NOTE]
+> **Optional software:**
+<a href="https://github.com/SoftFever/OrcaSlicer">
+    <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
+</a>
+
+
+
+<!-- Technical SECTION <elements> -->
+<!-- Technical SECTION <elements> -->
+<!-- Technical SECTION <elements> -->
 <br>
-
-
-<!-- Technical SECTION <elements> -->
-<!-- Technical SECTION <elements> -->
-<!-- Technical SECTION <elements> -->
-
+<br>
+<br>
 
 > [!NOTE]
 > **Model consistd of three parts: BASE, ARM, PIN**
@@ -64,10 +72,23 @@
 
 
 > [!NOTE]
-> **Parameters can be changes in file: 10_FreeCAD\3DP-ParametricHinge-R1C51.FCStd**
+> **PARAMETERS CHANGE**
+> Parameters can be changes in file: 10_FreeCAD\3DP-ParametricHinge-R1C51.FCStd
+<div align="center">
+    <img src="01_Screens\gif_value_change.gif"/>
+</div>
+
 
 > [!NOTE]
-> **Example parameter chage:**
+> **STL EXPORT**
+> .stl file can be obtained from directly from the FreeCAD software.
+<div align="center">
+    <img src="01_Screens\gif_stl_export.gif"/>
+</div>
+
+
+> [!NOTE]
+> **DIMENSIONS NAME CONVENTION**
 
 <div align="center">
     <img src="05_Inkscape\PIC__Page 3.png"/>
