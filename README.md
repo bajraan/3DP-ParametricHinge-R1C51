@@ -1,8 +1,10 @@
 <!-- Begin README  ||  Begin README  ||  Begin README  -->
 
 <div align="center">
+    <img src="05_Inkscape\Title.png"/>
     <img src="05_Inkscape\PIC__Page 2.png"/>
 </div>
+<br><br>
 
 <p align="center">
     <a href="https://daringfireball.net/projects/markdown/">
@@ -19,7 +21,7 @@
         height="40" /></a>
     <br>
 </p>
-<br><br><br><br>
+<br><br>
 
 > [!NOTE]
 > **Required software:**
