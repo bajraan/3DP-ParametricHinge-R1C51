@@ -59,9 +59,23 @@
 <div align="center">
     <img src="05_Inkscape\Elements.png"/>
 </div>
+
+<br><br>
+
+> [!NOTE]
+> **ASSEMBLY**
+<div align="center">
+    <img src="01_Screens\gif_assembly.gif"/>
+</div>
+
+> [!NOTE]
+> **DISASSEMBLY**
+<div align="center">
+    <img src="01_Screens\gif_disassembly.gif"/>
+</div>
+
 <br><br><br><br>
 
-<!--  #TODO PHOTO -->
 
 
 <!-- Technical SECTION <parametric names> -->
