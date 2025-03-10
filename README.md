@@ -51,11 +51,14 @@
 ```markdown
                    **PARAMETRIC HINGE ELEMENTS**
 |---------------------------------------------------------------------------|
-| 1  | BASE                                                                 |
-| 2  | ARM                                                                  |
-| 3  | PIN                                                                  |
+| 1  | ARM                                                                  |
+| 2  | PIN                                                                  |
+| 3  | BASE                                                                 |
 |---------------------------------------------------------------------------|
 ```
+<div align="center">
+    <img src="05_Inkscape\Elements.png"/>
+</div>
 <br><br><br><br>
 
 <!--  #TODO PHOTO -->
