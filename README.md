@@ -89,7 +89,6 @@
 <div align="center">
     <img src="01_Screens\gif_value_change.gif"/>
 </div>
-<br><br><br><br>
 
 > [!NOTE]
 > **STL EXPORT**
