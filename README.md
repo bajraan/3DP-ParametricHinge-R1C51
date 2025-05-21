@@ -28,7 +28,6 @@
 <a href="https://www.freecad.org/downloads">
     <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
-<br><br><br><br>
 
 > [!NOTE]
 > **Optional software:**
@@ -89,6 +88,7 @@
 <div align="center">
     <img src="01_Screens\gif_value_change.gif"/>
 </div>
+<br><br><br><br>
 
 > [!NOTE]
 > **STL EXPORT**
